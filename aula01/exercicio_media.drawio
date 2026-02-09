@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Página-1" id="e1nJ9sZElm0NIMIm09nn">
+    <mxGraphModel dx="866" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pET84sDycAx_rujrJCdi-3" edge="1" parent="1" source="pET84sDycAx_rujrJCdi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pET84sDycAx_rujrJCdi-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="inicio" vertex="1">
+          <mxGeometry height="60" width="100" x="90" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-5" edge="1" parent="1" source="pET84sDycAx_rujrJCdi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pET84sDycAx_rujrJCdi-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="inteiro media, n1, n2, n3" vertex="1">
+          <mxGeometry height="50" width="150" x="65" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-7" edge="1" parent="1" source="pET84sDycAx_rujrJCdi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pET84sDycAx_rujrJCdi-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="n1 = 15" vertex="1">
+          <mxGeometry height="40" width="100" x="90" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-9" edge="1" parent="1" source="pET84sDycAx_rujrJCdi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pET84sDycAx_rujrJCdi-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="n1 = 25" vertex="1">
+          <mxGeometry height="40" width="100" x="90" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-11" edge="1" parent="1" source="pET84sDycAx_rujrJCdi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pET84sDycAx_rujrJCdi-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="n1 = 32" vertex="1">
+          <mxGeometry height="40" width="100" x="90" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-13" edge="1" parent="1" source="pET84sDycAx_rujrJCdi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pET84sDycAx_rujrJCdi-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="media = (n1 + n2 + n3) / 3" vertex="1">
+          <mxGeometry height="40" width="180" x="50" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-15" edge="1" parent="1" source="pET84sDycAx_rujrJCdi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pET84sDycAx_rujrJCdi-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&quot;A média dos número é &quot;, media" vertex="1">
+          <mxGeometry height="70" width="170" x="55" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="pET84sDycAx_rujrJCdi-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="fim" vertex="1">
+          <mxGeometry height="60" width="100" x="90" y="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

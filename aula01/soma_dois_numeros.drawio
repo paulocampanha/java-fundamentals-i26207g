@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Página-1" id="AevvInnTD7Xu-XQPYE5D">
+    <mxGraphModel dx="866" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9i1CqdixJEKz0opLgjgG-5" edge="1" parent="1" source="9i1CqdixJEKz0opLgjgG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9i1CqdixJEKz0opLgjgG-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="inicio" vertex="1">
+          <mxGeometry height="40" width="130" x="62.5" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-7" edge="1" parent="1" source="9i1CqdixJEKz0opLgjgG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9i1CqdixJEKz0opLgjgG-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="inteiro valor1, valor2, soma" vertex="1">
+          <mxGeometry height="50" width="175" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-9" edge="1" parent="1" source="9i1CqdixJEKz0opLgjgG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9i1CqdixJEKz0opLgjgG-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="valor1 = 13" vertex="1">
+          <mxGeometry height="50" width="180" x="38" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-11" edge="1" parent="1" source="9i1CqdixJEKz0opLgjgG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9i1CqdixJEKz0opLgjgG-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="valor2 = 26" vertex="1">
+          <mxGeometry height="40" width="180" x="38" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-13" edge="1" parent="1" source="9i1CqdixJEKz0opLgjgG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9i1CqdixJEKz0opLgjgG-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="soma = valor1 + valor2" vertex="1">
+          <mxGeometry height="40" width="180" x="38" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-15" edge="1" parent="1" source="9i1CqdixJEKz0opLgjgG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9i1CqdixJEKz0opLgjgG-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&quot;A soma dos número é &quot;, soma" vertex="1">
+          <mxGeometry height="70" width="158" x="49" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="9i1CqdixJEKz0opLgjgG-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="fim" vertex="1">
+          <mxGeometry height="40" width="120" x="68" y="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
