@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Página-1" id="2JrzL2xcHl-138mMWYOp">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-1" edge="1" parent="1" source="_n4I2khu2TfTm_Sa7ShG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_n4I2khu2TfTm_Sa7ShG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Inicio" vertex="1">
+          <mxGeometry height="60" width="100" x="363.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="cadeia nome&lt;div&gt;inteiro idade&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="175" x="326" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&quot;Qual é o seu nome: &quot;" vertex="1">
+          <mxGeometry height="70" width="200" x="313.5" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-5" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="nome" vertex="1">
+          <mxGeometry height="60" width="100" x="363.5" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-6" edge="1" parent="1" source="_n4I2khu2TfTm_Sa7ShG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="_n4I2khu2TfTm_Sa7ShG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-7" edge="1" parent="1" source="_n4I2khu2TfTm_Sa7ShG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_n4I2khu2TfTm_Sa7ShG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="idade &amp;gt;= 18" vertex="1">
+          <mxGeometry height="140" width="145" x="341" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&quot;QUE PENA! &quot;, nome, &quot; não pode tirar a CNH&quot;" vertex="1">
+          <mxGeometry height="80" width="300" x="490" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&quot;PARABÉNS!! &quot;, nome, &quot; pode tirar a CNH&quot;" vertex="1">
+          <mxGeometry height="80" width="225" x="106" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-11" edge="1" parent="1" source="_n4I2khu2TfTm_Sa7ShG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.531;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" target="_n4I2khu2TfTm_Sa7ShG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-12" edge="1" parent="1" source="_n4I2khu2TfTm_Sa7ShG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" target="_n4I2khu2TfTm_Sa7ShG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&quot;Qual é a sua idade: &quot;" vertex="1">
+          <mxGeometry height="70" width="255" x="286" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-14" edge="1" parent="1" source="_n4I2khu2TfTm_Sa7ShG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="_n4I2khu2TfTm_Sa7ShG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-15" edge="1" parent="1" source="_n4I2khu2TfTm_Sa7ShG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_n4I2khu2TfTm_Sa7ShG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-16" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="idade" vertex="1">
+          <mxGeometry height="60" width="100" x="363.5" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-17" edge="1" parent="1" source="_n4I2khu2TfTm_Sa7ShG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" target="_n4I2khu2TfTm_Sa7ShG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Falso" vertex="1">
+          <mxGeometry height="30" width="60" x="486" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Verdadeiro" vertex="1">
+          <mxGeometry height="30" width="60" x="271" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-20" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Fim" vertex="1">
+          <mxGeometry height="60" width="100" x="364" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-21" edge="1" parent="1" source="_n4I2khu2TfTm_Sa7ShG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" target="_n4I2khu2TfTm_Sa7ShG-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="609" y="977" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_n4I2khu2TfTm_Sa7ShG-22" edge="1" parent="1" source="_n4I2khu2TfTm_Sa7ShG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" target="_n4I2khu2TfTm_Sa7ShG-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="977" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
