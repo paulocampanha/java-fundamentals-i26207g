@@ -28,7 +28,7 @@ public class ConceitoFinal2 {
 
         if (media >= 6) {
             System.out.println("O aluno " + nomeAluno + 
-            " obteve a média" + String.format("%.1f", media));
+            " obteve a média " + String.format("%.1f", media));
             System.out.println("Resultado: APROVADO");
         } else if (media >=3 && media < 6) {
             System.out.println("O aluno " + nomeAluno +

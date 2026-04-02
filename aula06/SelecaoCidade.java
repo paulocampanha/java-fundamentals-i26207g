@@ -4,7 +4,7 @@
  * residir na cidade de São Paulo, apenas em outras cidades
  */
 
-package aula6;
+package aula06;
 import java.util.Scanner;
 
 

@@ -5,7 +5,7 @@
  * "ERRO: A nova senha não pode ser igual a senha anterior."
  */
 
-package aula6;
+package aula06;
 import java.util.Scanner;
 public class ExercicioLogicoNao {
 

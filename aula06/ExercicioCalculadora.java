@@ -9,7 +9,7 @@
  * erro ao usuário.
  */
 
-package aula6;
+package aula06;
 import java.util.Scanner;
 public class ExercicioCalculadora {
 

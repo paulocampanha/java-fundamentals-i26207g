@@ -3,7 +3,7 @@
  * switch case para escolher uma das opcoes do
  * menu
  */
-package aula6;
+package aula06;
 import java.util.Scanner;
 
 public class MenuOpcoes {

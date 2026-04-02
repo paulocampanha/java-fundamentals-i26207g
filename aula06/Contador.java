@@ -1,4 +1,4 @@
-package aula6;
+package aula06;
 /**
  * Nesse programa vamos usar a estrutra de repetição While
  * para imprimir uma sequência de número do 1 ao 10

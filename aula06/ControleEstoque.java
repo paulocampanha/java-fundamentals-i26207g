@@ -2,7 +2,7 @@
  * Nesse programa vamos verificar se o estoque está negativos
  * usando o operador lógico NOT (!)
  */
-package aula6;
+package aula06;
 import java.util.Scanner;
 
 public class ControleEstoque {

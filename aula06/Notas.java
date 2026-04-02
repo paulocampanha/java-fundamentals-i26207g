@@ -4,7 +4,7 @@
  * B aprovam o aluno, a letra C, coloca o aluno em recuperação
  * e as letras D e E reprovam o aluno.
  */
-package aula6;
+package aula06;
 import java.util.Scanner;
 
 public class Notas {

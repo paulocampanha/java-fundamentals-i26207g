@@ -6,7 +6,7 @@
  * inferior a 5 ou frequência inferior a 75%, o aluno está reprovado.
  */
 
-package aula6;
+package aula06;
 
 import java.util.Scanner;
 

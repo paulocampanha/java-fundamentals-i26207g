@@ -5,7 +5,7 @@
  * Sem cupom, sem desconto.
  */
 
-package aula6;
+package aula06;
 import java.util.Scanner;
 
 public class Restaurante {

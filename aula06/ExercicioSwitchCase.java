@@ -11,16 +11,17 @@
  * ND - Aluno Reprovado.
  */
 
-package aula6;
+package aula06;
 import java.util.Scanner;
 
 public class ExercicioSwitchCase {
 
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Digite a menção do aluno: ");
+        System.out.print("Digite a menção do aluno (D, ED, ND): ");
         String mencao = sc.nextLine();
         mencao = mencao.toUpperCase();
+
         switch (mencao){
             case "D":
                 System.out.println("Aluno Aprovado");

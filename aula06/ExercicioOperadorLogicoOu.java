@@ -10,7 +10,7 @@
  * de 1 a 7.
  */
 
-package aula6;
+package aula06;
 import java.util.Scanner;
 
 public class ExercicioOperadorLogicoOu {
